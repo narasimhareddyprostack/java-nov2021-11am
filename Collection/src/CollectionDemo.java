@@ -8,7 +8,9 @@ public class CollectionDemo {
 		
 		al.add("Rajini Kanth");
 		al.add(10);
-		al.add(10);al.add(10);
+		al.add(null);
+		al.add(10);
+		al.add(10);
 		al.add(10);
 		System.out.println(al);
 		
